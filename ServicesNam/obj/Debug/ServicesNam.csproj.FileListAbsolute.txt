@@ -1,0 +1,7 @@
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\bin\Debug\ServicesNam.exe.config
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\bin\Debug\ServicesNam.exe
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\bin\Debug\ServicesNam.pdb
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\obj\Debug\ServicesNam.csproj.AssemblyReference.cache
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\obj\Debug\ServicesNam.csproj.CoreCompileInputs.cache
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\obj\Debug\ServicesNam.exe
+C:\Users\izxh\source\repos\ServicesNam\ServicesNam\obj\Debug\ServicesNam.pdb
